@@ -1,0 +1,7 @@
+#Wed Mar 08 15:59:22 CET 2017
+base.0=C\:\\Users\\simon\\Documents\\cours\\Android\\TD_08_03_2017\\TD_08_03_2017_Simon_Nicolas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ff160a81cdc015f2d6d444da09142cffe7b42ff2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\simon\\Documents\\cours\\Android\\TD_08_03_2017\\TD_08_03_2017_Simon_Nicolas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_012a9bee9f2320a0522e2e073287e3c5b6b523f5\\classes.dex
+base.1=C\:\\Users\\simon\\Documents\\cours\\Android\\TD_08_03_2017\\TD_08_03_2017_Simon_Nicolas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_012a9bee9f2320a0522e2e073287e3c5b6b523f5
+file.0=C\:\\Users\\simon\\Documents\\cours\\Android\\TD_08_03_2017\\TD_08_03_2017_Simon_Nicolas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ff160a81cdc015f2d6d444da09142cffe7b42ff2\\classes.dex
